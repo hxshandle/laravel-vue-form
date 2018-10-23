@@ -1,0 +1,21 @@
+{
+    "name": "hxshandle\/laravel-vue-form",
+    "description": "Laravel models vue form builder",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Handle Huang",
+            "email": "handle.huang@outlook.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0",
+        "laravel/framework": "~5.5",
+        "doctrine/dbal": "2.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Hxshandle\\LaravelVueForm\\": "src"
+        }
+    }
+}
